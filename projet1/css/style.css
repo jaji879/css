@@ -1,0 +1,73 @@
+body {background-color: rgb(0, 68, 255);
+    
+    
+  }   
+
+.brand {font-size: 50px;
+        text-align:justify-all;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: rgba(13, 64, 233, 0.5);
+
+}
+.hoim{font-size: 40px;
+
+}
+nav {background-color: rgb(59, 39, 39);
+     font-size:40px ;
+     text-align: center;
+     padding: 14px 16px;
+     font-family: Shizuru;
+     
+
+}
+nav a{
+    text-decoration: none;
+    color: darkseagreen;
+    font-size: 20px;
+   
+}
+h1 { 
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+.foter{
+    color: blueviolet;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#quimoi{ 
+    position: relative;
+    left: 23%;
+    
+}
+article > p {
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;
+}
+
+#image{
+    position: absolute;
+    top: 120px;
+    left: 800px;
+}
+#skills{
+    position: absolute;
+    top: 500px;
+    left: 25%;
+
+
+}
+#gphoto {
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+#pied {
+    position: absolute;
+    top: 1000px;
+    left: 500px;
+}
